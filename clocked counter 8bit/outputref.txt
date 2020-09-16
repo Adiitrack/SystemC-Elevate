@@ -1,0 +1,28 @@
+Interrupt asserted: Intr0 ( 2700 ns)
+Interrupt asserted: Intr1 ( 5120 ns)
+Interrupt asserted: Intr0 ( 7820 ns)
+Interrupt asserted: Intr1 ( 10240 ns)
+Interrupt asserted: Intr0 ( 12940 ns)
+Interrupt asserted: Intr1 ( 15360 ns)
+Interrupt asserted: Intr0 ( 18060 ns)
+Value = 0 18470 ns
+Value = 155 19990 ns
+Value = 231 20500 ns
+Interrupt asserted: Intr1 ( 21480 ns)
+Interrupt asserted: Intr0 ( 24180 ns)
+Interrupt asserted: Intr1 ( 26600 ns)
+Interrupt asserted: Intr0 ( 29300 ns)
+Value = 232 29990 ns
+Interrupt asserted: Intr0 ( 31480 ns)
+Interrupt asserted: Intr1 ( 31720 ns)
+Interrupt asserted: Intr0 ( 36600 ns)
+Interrupt asserted: Intr1 ( 36840 ns)
+Interrupt asserted: Intr0 ( 10000120 ns)
+Interrupt asserted: Intr1 ( 10000360 ns)
+Value = 169 10000746 ns
+Interrupt asserted: Intr0 ( 10005240 ns)
+Interrupt asserted: Intr1 ( 10005480 ns)
+2.74137
+@100 ms Terminating simulation
+
+Done
